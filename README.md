@@ -41,6 +41,6 @@ npm run dev
 
 ## Contact
 
-- 🌐 Portfolio: [your-vercel-url-here]
+- 🌐 Portfolio: [portfolio-kappa-ashen-rj6wmvri2o.vercel.app](https://portfolio-kappa-ashen-rj6wmvri2o.vercel.app)
 - 💼 LinkedIn: [linkedin.com/in/zarin-tasnim-6b548830a](https://linkedin.com/in/zarin-tasnim-6b548830a)
 - 🐙 GitHub: [github.com/TasnimZarin](https://github.com/TasnimZarin)
