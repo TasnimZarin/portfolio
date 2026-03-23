@@ -2,7 +2,7 @@
 
 Personal portfolio showcasing full-stack applications, REST APIs, and machine learning projects.
 
-🔗 🔗 **Live Site:** [portfolio-kappa-ashen-rj6wmvri2o.vercel.app](https://portfolio-kappa-ashen-rj6wmvri2o.vercel.app)
+🔗 🔗 **Live Site:** [portfolio-kappa-ashen-rj6wmvri2o.vercel.app](https://zarintasnim-portfolio.vercel.app)
 
 ## About
 
@@ -42,6 +42,6 @@ npm run dev
 
 ## Contact
 
-- 🌐 Portfolio: [portfolio-kappa-ashen-rj6wmvri2o.vercel.app](https://portfolio-kappa-ashen-rj6wmvri2o.vercel.app)
+- 🌐 Portfolio: [portfolio-kappa-ashen-rj6wmvri2o.vercel.app](https://zarintasnim-portfolio.vercel.app)
 - 💼 LinkedIn: [linkedin.com/in/zarin-tasnim-6b548830a](https://linkedin.com/in/zarin-tasnim-6b548830a)
 - 🐙 GitHub: [github.com/TasnimZarin](https://github.com/TasnimZarin)
