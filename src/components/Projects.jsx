@@ -17,7 +17,7 @@ const projects = [
     live: null,
   },
   {
-    name: 'ShopApp - E-Commerce Platform',
+    name: 'Baangi Bazaar - E-Commerce Platform',
     images: ['/ecommerce/admin.png',
       '/ecommerce/swagger1.png',
       '/ecommerce/swagger2.png',

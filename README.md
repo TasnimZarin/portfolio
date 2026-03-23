@@ -1,16 +1,46 @@
-# React + Vite
+# Zarin Tasnim — Software Engineer | AI/ML Developer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Personal portfolio showcasing full-stack applications, REST APIs, and machine learning projects.
 
-Currently, two official plugins are available:
+🔗 **Live Site:** [your-vercel-url-here]
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## About
 
-## React Compiler
+I'm a Computer Science graduate based in Montreal, Canada, building full-stack web applications and ML pipelines. I specialize in Python backends (Django, FastAPI), React frontends, and AI integrations using LangChain and OpenAI API.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Projects
 
-## Expanding the ESLint configuration
+| Project | Tech | Live |
+|---|---|---|
+| SeatLock — Movie Reservation System | FastAPI, PostgreSQL, React, Docker | [Live](https://movie-reservation-five.vercel.app) |
+| Baangi Bazaar — E-Commerce Platform | Django, DRF, PostgreSQL, React, Stripe | In Progress |
+| URL Shortener | FastAPI, PostgreSQL, Chart.js, Railway | Coming Soon |
+| Nexus — AI Career Coach Agent | LangChain, OpenAI API, RAG, ChromaDB, FastAPI | In Development |
+| AI Face Mask Detector | PyTorch, CNN, scikit-learn | Research |
+| Breast Cancer Detection | TensorFlow, VGG16, InceptionV3, ResNet50 | Research |
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Tech Stack
+
+**Languages:** Python · JavaScript · Java · SQL · Bash
+
+**Backend:** Django · FastAPI · Flask · REST APIs · JWT Auth · Stripe
+
+**Frontend:** React · Vite · Tailwind CSS · Framer Motion
+
+**AI/ML:** PyTorch · TensorFlow · LangChain · OpenAI API · RAG · ChromaDB · scikit-learn
+
+**Databases:** PostgreSQL · MySQL · SQLite · Redis · MongoDB
+
+**Tools & Cloud:** Docker · Git · GitHub · Render · Vercel · Railway
+
+## Run Locally
+```bash
+npm install --legacy-peer-deps
+npm run dev
+```
+
+## Contact
+
+- 🌐 Portfolio: [your-vercel-url-here]
+- 💼 LinkedIn: [linkedin.com/in/zarin-tasnim-6b548830a](https://linkedin.com/in/zarin-tasnim-6b548830a)
+- 🐙 GitHub: [github.com/TasnimZarin](https://github.com/TasnimZarin)
