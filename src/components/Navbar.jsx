@@ -4,12 +4,13 @@ import { FaLinkedin, FaInstagram, FaFacebook } from 'react-icons/fa'
 import { motion, AnimatePresence } from 'framer-motion'
 
 const navLinks = [
-  { label: '🏠 About', href: '#about' },
-  { label: '💼 Experience', href: '#experience' },
+  { label: '🤓 About', href: '#about' },
+  { label: '👩🏻‍💻 Experience', href: '#experience' },
   { label: '🛠 Skills', href: '#skills' },
   { label: '🚀 Projects', href: '#projects' },
   { label: '🎓 Education', href: '#education' },
-  { label: '🏅 Beyond Code', href: '#languages' },
+  { label: '📄 Publications', href: '#publications' },
+  { label: '✨ Beyond the Code', href: '#languages' },
   { label: '🎯 Extra Curricular', href: '#extra-curricular' },
   { label: '📬 Contact', href: '#contact' },
 ]

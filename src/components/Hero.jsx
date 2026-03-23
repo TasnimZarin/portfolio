@@ -166,9 +166,8 @@ function Hero() {
             production-ready ML workflows.
           </p>
           <p style={{ color: '#8892a4', fontSize: '17px', lineHeight: 1.8, marginBottom: '24px' }}>
-            Currently building Wellora — a conversational AI wellness agent powered by LangChain, RAG, 
-            LLM, ChromaDB vector memory, and other tools. I've shipped full-stack applications, designed 
-            REST APIs, and built ML pipelines that bring real intelligence to production systems.
+            I build full-stack applications, design REST APIs, and create ML pipelines that bring real 
+            intelligence to production systems. Currently diving deep into agentic AI and LLM-powered applications.
           </p>
           <p style={{ color: '#8892a4', fontSize: '17px', lineHeight: 1.8 }}>
             My research background explores how software engineering and AI/ML 
