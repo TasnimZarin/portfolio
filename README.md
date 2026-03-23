@@ -2,23 +2,24 @@
 
 Personal portfolio showcasing full-stack applications, REST APIs, and machine learning projects.
 
-🔗 **Live Site:** [your-vercel-url-here]
+🔗 🔗 **Live Site:** [portfolio-kappa-ashen-rj6wmvri2o.vercel.app](https://portfolio-kappa-ashen-rj6wmvri2o.vercel.app)
 
 ## About
 
-I'm a Computer Science graduate based in Montreal, Canada, building full-stack web applications and ML pipelines. I specialize in Python backends (Django, FastAPI), React frontends, and AI integrations using LangChain and OpenAI API.
+I'm a Computer Science graduate based in Canada, building full-stack web applications and ML pipelines. I specialize in Python backends (Django, FastAPI), React frontends, and AI integrations using LangChain and OpenAI API.
 
+<!--
 ## Projects
 
 | Project | Tech | Live |
 |---|---|---|
-| SeatLock — Movie Reservation System | FastAPI, PostgreSQL, React, Docker | [Live](https://movie-reservation-five.vercel.app) |
-| Baangi Bazaar — E-Commerce Platform | Django, DRF, PostgreSQL, React, Stripe | In Progress |
-| URL Shortener | FastAPI, PostgreSQL, Chart.js, Railway | Coming Soon |
 | Nexus — AI Career Coach Agent | LangChain, OpenAI API, RAG, ChromaDB, FastAPI | In Development |
+| Baangi Bazaar — E-Commerce Platform | Django, DRF, PostgreSQL, React, Stripe | In Progress |
+| SeatLock — Movie Reservation System | FastAPI, PostgreSQL, React, Docker | [Live](https://movie-reservation-five.vercel.app) |
+| URL Shortener | FastAPI, PostgreSQL, Chart.js, Railway | Coming Soon |
 | AI Face Mask Detector | PyTorch, CNN, scikit-learn | Research |
 | Breast Cancer Detection | TensorFlow, VGG16, InceptionV3, ResNet50 | Research |
-
+-->
 ## Tech Stack
 
 **Languages:** Python · JavaScript · Java · SQL · Bash
