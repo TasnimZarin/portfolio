@@ -34,7 +34,7 @@ const experiences = [
  {
   period: 'Jan 2026 — Present',
   role: 'Full-Stack Developer',
-  company: 'Baangi Bazaar',
+  company: 'Baangi Bazaar — Online Fashion Store',
   companyUrl: null,
   location: 'Remote',
   bullets: [
