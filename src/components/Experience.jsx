@@ -32,7 +32,21 @@ const experiences = [
   },
   */
  {
-  period: '2021 — 2025',
+  period: 'Jan 2026 — Present',
+  role: 'Full-Stack Developer',
+  company: 'Baangi Bazaar',
+  companyUrl: null,
+  location: 'Remote',
+  bullets: [
+    'Developed a full-stack e-commerce platform for an online retail business using Django REST Framework and React, with JWT authentication and role-based access control (admin vs user)',
+    'Integrated Stripe payment intents for secure checkout; built product and category management, shopping cart, order processing, and an admin dashboard for inventory control',
+    'Implemented a product reviews and ratings system with user-specific permissions, managed with Django ORM and PostgreSQL',
+    'Containerized the application with Docker and deployed on Render with a PostgreSQL database',
+  ],
+  tags: ['Python', 'Django', 'DRF', 'React', 'PostgreSQL', 'JWT', 'Stripe', 'Docker', 'Render', 'REST API'],
+},
+ {
+  period: 'Sep 2021 — Jun 2025',
   role: 'Research Assistant',
   company: 'TSE Research Lab — Concordia University',
   companyUrl: 'https://users.encs.concordia.ca/~tse/',
